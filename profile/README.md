@@ -173,7 +173,7 @@ v1.0   ▣ ▣ ▣       100 tracks · 모든 대륙 · 6 장르         [global
 
 <div align="center">
 
-> <strong><em>"한 곡 = 한 질문. 살아남은 답만 발행한다."</em></strong>
+> <strong><em>"이 음악은 조합으로만 존재한다."</em></strong>
 
 <br/>
 
