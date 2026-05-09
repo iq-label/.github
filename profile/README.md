@@ -15,24 +15,6 @@
 
 <br/>
 
-```text
-◆ ◇ ◆
-
-CATALOGUE      v0.1
-OPERATOR       e9ua1
-SECTOR         iq-label
-
-TRACKS         1
-GENRES         6 modern
-INSTRUMENTS    world · open
-
-EST. 2026 · SEOUL · COSMOS
-
-◆ ◇ ◆
-```
-
-<br/>
-
 ## ◈ THE QUESTION
 
 > <em>만약 sitar가 boom-bap의 베이스라인 위에서 인사말이 아니라 <strong>멜로디</strong>를 잡으면 어떻게 되는가?</em>
@@ -195,10 +177,7 @@ v1.0   ▣ ▣ ▣       100 tracks · 모든 대륙 · 6 장르         [global
 
 <br/>
 
-<strong>EST. 2026 · SEOUL · COSMOS</strong>
-
-operated by [@e9ua1](https://github.com/e9ua1) · 아이큐<br/>
-[github.com/iq-label](https://github.com/iq-label) · [iq-label.github.io](https://iq-label.github.io)
+[@e9ua1](https://github.com/e9ua1) · [iq-label.github.io](https://iq-label.github.io)
 
 <br/>
 
